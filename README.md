@@ -8,4 +8,5 @@ Road extraction is an essential step in building autonomous navigation systems. 
 
 
 ## Proposed SPIN (Spatial + Interaction Space) Graph Reasoning Module
-
+<p align="center">
+<img src="images/ICCV_21-Hybrid_GR_v1.jpeg"/>
