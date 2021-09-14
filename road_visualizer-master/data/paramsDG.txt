@@ -1,0 +1,7 @@
+solution = ./data/103201_mask_pred.csv
+
+truth = ./data/103201_mask_gt.csv
+
+image-dir = /Users/an.tran/Desktop/map-workspace/data/grab-deep-globe/valid
+
+band-triplets = ./data/band-triplets.txt
