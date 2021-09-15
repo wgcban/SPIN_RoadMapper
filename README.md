@@ -16,3 +16,8 @@ The architecture of our proposed method. (a) We perform graph reasoning in both 
 
 <p align="center">
 <img src="images/ICCV_21-Hybrid_GR_v1.jpeg" width="600"/>
+  
+  
+## Proposed network for road segmentation from aerial images
+<p align="center">
+<img src="images/ICCV_21-SPIN_v1.jpeg" width="600"/>
