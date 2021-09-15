@@ -33,4 +33,7 @@ The input images are first feed forwarded to a feature extractor block followed 
 ### 1. Donwloading the datasets
 
 In this paper we used two publically available road segmentation datasets, namely (1) Massachusetts road dataset, and (2) DeepGlobe dataset.
+
 The Massachusetts road dataset can be downloaded from: [Click Here](https://www.cs.toronto.edu/~vmnih/data/)
+  
+
