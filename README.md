@@ -28,3 +28,6 @@ The input images are first feed forwarded to a feature extractor block followed 
 ## A qualitative comparison between our SPIN Road Mapper and the SOTA methods
 <p align="center">
 <img src="images/ICCV_21-qualitative.jpg" width="600"/>
+
+### Reproducing the results
+## Donwloading the datasets
