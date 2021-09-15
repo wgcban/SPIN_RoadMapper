@@ -12,7 +12,7 @@ We build graphs in two spaces: (a) spatial space and (b) a projected latent inte
 
 ## Architecture of proposed SPIN module and SPIN pyramid
   
-The architecture of our proposed method. (a) We perform graph reasoning in both spatial and interaction space. (b) The proposed SPIN pyramid module which performs SPIN graph reasoning at multiple scales ($'1, 1/2, \text{ and } 1/4'$) of original feature map to extract multi-scale long-range contextual information.
+The architecture of our proposed method. (a) We perform graph reasoning in both spatial and interaction space. (b) The proposed SPIN pyramid module which performs SPIN graph reasoning at multiple scales ($`1, 1/2, \text{ and } 1/4`$) of original feature map to extract multi-scale long-range contextual information.
 
 <p align="center">
 <img src="images/ICCV_21-Hybrid_GR_v1.jpeg" width="600"/>
