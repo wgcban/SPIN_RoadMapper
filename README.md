@@ -19,5 +19,7 @@ The architecture of our proposed method. (a) We perform graph reasoning in both 
   
   
 ## Proposed network for road segmentation from aerial images
+  
+The input images are first feed forwarded to a feature extractor block followed by a bottleneck consisting of stack of two hourglass modules. Then, the output of bottleneck is passed through a segmentation branch which consists of conv layers, our SPIN pyramid and a final classification layer to get the road segmentation map.
 <p align="center">
 <img src="images/ICCV_21-SPIN_v1.jpeg" width="600"/>
