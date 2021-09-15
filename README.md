@@ -10,6 +10,6 @@ Road extraction is an essential step in building autonomous navigation systems. 
 <p align="center">
 <img src="images/ICRA-intro_fig.jpeg" width="600"/>
 
-## Proposed SPIN (Spatial + Interaction Space) Graph Reasoning Module
+## Architecture of proposed SPIN module and SPIN pyramid
 <p align="center">
 <img src="images/ICCV_21-Hybrid_GR_v1.jpeg" width="600"/>
