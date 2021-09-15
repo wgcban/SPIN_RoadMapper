@@ -29,5 +29,5 @@ The input images are first feed forwarded to a feature extractor block followed 
 <p align="center">
 <img src="images/ICCV_21-qualitative.jpg" width="600"/>
 
-### Reproducing the results
-## Donwloading the datasets
+## Reproducing the results
+### 1. Donwloading the datasets
