@@ -1,3 +1,7 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/spin-road-mapper-extracting-roads-from-aerial/road-segementation-on-deepglobe)](https://paperswithcode.com/sota/road-segementation-on-deepglobe?p=spin-road-mapper-extracting-roads-from-aerial)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/spin-road-mapper-extracting-roads-from-aerial/road-segementation-on-massachusetts-roads)](https://paperswithcode.com/sota/road-segementation-on-massachusetts-roads?p=spin-road-mapper-extracting-roads-from-aerial)
+
 ## SPIN Road Mapper: Extracting Roads from Aerial Images via Spatial and Interaction Space Graph Reasoning for Autonomous Driving
 [Wele Gedara Chaminda Bandara](https://www.linkedin.com/in/chamindabandara/), [Jeya Maria Jose Valanarasu](https://jeya-maria-jose.github.io/research/), and [Vishal M. Patel](https://engineering.jhu.edu/vpatel36/sciencex_teams/vishalpatel/)
 
