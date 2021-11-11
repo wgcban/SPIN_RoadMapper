@@ -42,4 +42,6 @@ In this paper we used two publically available road segmentation datasets, namel
 
 The Massachusetts road dataset can be downloaded from: [Click Here](https://www.cs.toronto.edu/~vmnih/data/)
   
+The main module can be found at
+  modelsstack_module.py/StackHourglassNetMTL_DGCNv4
 
