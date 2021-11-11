@@ -41,7 +41,8 @@ The input images are first feed forwarded to a feature extractor block followed 
 In this paper we used two publically available road segmentation datasets, namely (1) Massachusetts road dataset, and (2) DeepGlobe dataset.
 
 The Massachusetts road dataset can be downloaded from: [Click Here](https://www.cs.toronto.edu/~vmnih/data/)
-  
+
+## Complete segmentation network
 The main module can be found at
   modelsstack_module.py/StackHourglassNetMTL_DGCNv4
 
