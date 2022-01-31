@@ -7,7 +7,7 @@
 
 Read Paper: [Link](https://arxiv.org/abs/2109.07701)
 
-Under review at IEEE International Conference on Robotics and Automation (ICRA), 2022.
+Accepted for presentation at the 2022 IEEE International Conference on Robotics and Automation (ICRA), May 23-27, 2022, Philadelphia (PA), USA.
 
 ## Overview of proposed SPIN module
 
